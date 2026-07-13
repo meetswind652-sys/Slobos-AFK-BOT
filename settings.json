@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "puresml.aternos.me:43085",
+    "ip": "puresml.aternos.me",
     "port": 43085,
     "version": "1.21.1"
   },
